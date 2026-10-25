@@ -8,7 +8,6 @@ A smart home security prototype designed to detect environmental hazards and int
 - **Sensors:** 
   - MQ-2 (Flammable gas, smoke, and CO detection)
   - PIR SR501 (Motion detection)
-  - DHT11 (Temperature and humidity)
 - **Communication:** Bluetooth Classic (Bluetooth Terminal app).
 - **Actuators:** Buzzer (Alarm), 2x 5V Relays (Exhaust fan and LED lights).
 
